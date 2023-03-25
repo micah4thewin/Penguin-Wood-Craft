@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Blokletters Balpen';
+    src: url('../../assets/fonts/Blokletters-Balpen.woff2') format('woff2'),
+        url('../../assets/fonts/Blokletters-Balpen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blokletters Potlood';
+    src: url('../../assets/fonts/Blokletters-Potlood.woff2') format('woff2'),
+        url('../../assets/fonts/Blokletters-Potlood.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blokletters Viltstift';
+    src: url('../../assets/fonts/Blokletters-Viltstift.woff2') format('woff2'),
+        url('../../assets/fonts/Blokletters-Viltstift.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'My Underwood';
+    src: url('../../assets/fonts/MyUnderwood.woff2') format('woff2'),
+        url('../../assets/fonts/MyUnderwood.woff') format('woff'),
+        url('../../assets/fonts/MyUnderwood.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'My Underwood';
+    src: url('../../assets/fonts/MyUnderwood.woff2') format('woff2'),
+        url('../../assets/fonts/MyUnderwood.woff') format('woff'),
+        url('../../assets/fonts/MyUnderwood.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+    font-display: swap;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'My Underwood';
+}
+
+
+p {
+font-family: 'Blokletters Balpen';
+}
+
+.nav-link {
+font-family: 'Blokletters Balpen';
+  font-weight: normal;
+}
+
+
+body, button, input, textarea, a, li, span {
+  font-family: 'Blokletters Balpen';
+}
+
+/* Any other specific tags you want to style */
+.tag-name {
+  font-family: 'Blokletters Balpen';
+}
